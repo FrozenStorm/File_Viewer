@@ -1,0 +1,16 @@
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Release\FileNameViewer.exe
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Release\FileNameViewer.pdb
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.F_FileNameViewer.resources
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.Properties.Resources.resources
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.exe
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.pdb
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Release\FileNameViewer.exe
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Release\FileNameViewer.pdb
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\ResolveAssemblyReference.cache
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.F_FileNameViewer.resources
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.Properties.Resources.resources
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.csproj.GenerateResource.Cache
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.exe
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Release\FileNameViewer.pdb

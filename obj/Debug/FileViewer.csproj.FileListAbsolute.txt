@@ -1,0 +1,55 @@
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.F_FileInfo.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\bin\Debug\FileViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\bin\Debug\FileViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileViewer.Properties.Resources.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\bin\Debug\FileViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\bin\Debug\FileViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileNameViewer.F_FileInfo.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.Properties.Resources.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\FileViewer.exe
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\FileViewer.pdb
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\bin\Debug\FileViewer.exe
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\bin\Debug\FileViewer.pdb
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\FileNameViewer.F_FileInfo.resources
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\FileViewer.Properties.Resources.resources
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nzwygd\Desktop\FileViewer\obj\Debug\FileNameViewer.F_FolderInfo.resources
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.pdb
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\FileViewer.exe
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\FileViewer.pdb
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\bin\Debug\FileViewer.exe
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\bin\Debug\FileViewer.pdb
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\ResolveAssemblyReference.cache
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\FileNameViewer.F_FileInfo.resources
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\FileNameViewer.F_FolderInfo.resources
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\FileViewer.Properties.Resources.resources
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\GenerateResource.read.1.tlog
+\\srv-nas-001.acsintra.local\homes$\xzwygd\Desktop\FileViewer\FileViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\bin\Debug\FileViewer.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\bin\Debug\FileViewer.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileNameViewer.F_FileInfo.resources
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileNameViewer.F_FolderInfo.resources
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\FileViewer.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\FileViewer\obj\Debug\GenerateResource.write.1.tlog

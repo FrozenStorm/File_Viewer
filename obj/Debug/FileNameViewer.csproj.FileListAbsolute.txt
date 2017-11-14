@@ -1,0 +1,34 @@
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Debug\FileNameViewer.exe
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Debug\FileNameViewer.pdb
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.Properties.Resources.resources
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.exe
+C:\Dokumente und Einstellungen\nzwygd\Desktop\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.pdb
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Debug\FileNameViewer.exe
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Debug\FileNameViewer.pdb
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\ResolveAssemblyReference.cache
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.Properties.Resources.resources
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.csproj.GenerateResource.Cache
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.exe
+Y:\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\bin\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\FileNameViewer.Properties.Resources.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\BBC\Sicherung nzwygd 16.07.2010\OOP_Advanced\OOP_Advanced\FileNameViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\bin\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\bin\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\FileNameViewer.Properties.Resources.resources
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\GenerateResource.write.1.tlog

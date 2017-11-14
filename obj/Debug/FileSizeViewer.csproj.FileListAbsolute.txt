@@ -1,0 +1,12 @@
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\Desktop\FileNameViewer\obj\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\bin\Debug\FileNameViewer.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\bin\Debug\FileNameViewer.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.F_FileNameViewer.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.Properties.Resources.resources
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\C#\FileSizeViewer\obj\Debug\FileNameViewer.F_FileInfo.resources
